@@ -7,7 +7,7 @@ Share a running prototype so anyone with the link can leave pinned comments and 
 In Claude Code:
 
 ```
-/plugin marketplace add tonenapp/tonen
+/plugin marketplace add tonenapp/tonen-skills
 /plugin install tonen@tonen
 ```
 
